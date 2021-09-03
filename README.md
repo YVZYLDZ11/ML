@@ -1,3 +1,3 @@
 # ML
 
-It was created to develop its own in the field of machine learning and to work on projects there.
+I created it to improve myself in the area of machine Learning and to work on the projects here.
